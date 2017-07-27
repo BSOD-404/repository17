@@ -1,3 +1,5 @@
+alert('Косо, криво. Аби живо...');
+
 var fiboNacci = function(a) {
     if (a === 1) 
     
