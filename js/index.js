@@ -1,4 +1,4 @@
-alert('Косо, криво. Аби живо...');
+alert('Still working on it!');
 
 var fiboNacci = function(a) {
     if (a === 1) 
@@ -8,6 +8,7 @@ var fiboNacci = function(a) {
     }
     
     else 
+    
     {
         var n = fiboNacci(a - 1);
         n.push(n[n.length - 1] + n[n.length - 2]);
